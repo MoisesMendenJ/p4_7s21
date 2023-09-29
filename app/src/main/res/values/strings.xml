@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">p4_7s21</string>
+    <string name="p1titulo">MANEJO DE ACTIVIDADES(Layout)</string>
+    <string name="p1actbasc">ACTIVIDAD BASICA</string>
+    <string name="p2actparce">ACTIVIDAD PARCEABLE</string>
+    <string name="p1actresp">ACTIVIDAD RESULTADOS</string>
+    <string name="p1ingnombre">INGRESA AQUI TU NOMBRE</string>
+    <string name="p1ingedad">INGRESA AQUI TU EDAD</string>
+    <string name="p1ingcorreo">INGRESA AQUI TU CORREO</string>
+    <string name="p2titulo">ACTIVIDAD BASICA</string>
+    <string name="p2mensaje">NOMBRE RECIBIDO</string>
+    <string name="p2btnreg">RREGRESAR A LA ACTIVIDAD PRINCIPAL</string>
+    <string name="p3titulo">ELEMENTOS PARCEABLES DATOS</string>
+    <string name="p3informacion">DATOS OBTENIDOS</string>
+    <string name="p3btnregresa">REGRESAR AL INICIO</string>
+
+</resources>
